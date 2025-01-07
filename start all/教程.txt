@@ -1,0 +1,5 @@
+转到C：\Program Files\StartAllBack
+
+将 StartAllBackX64.dll 重命名为 StartAllBackX64.bak
+
+复制破解文件 StartAllBackX64.dll到该目录，并重新启动计算机
